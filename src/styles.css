@@ -45,3 +45,11 @@ body {
 .contact-us {
   font-size: 25px;
 }
+.bio-links {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.bio-links:hover {
+  font-weight: bold;
+}
